@@ -1,4 +1,4 @@
-## Hi there 👋😚
+## Hi everyone 👋😚
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/Hc7YKyK5l8TGEvlP8n/giphy.gif" width="200"/>
   <img src="https://media.giphy.com/media/4eypShqG7ddoN6BGHK/giphy.gif" width="200"/>
@@ -37,10 +37,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/Q2T7BXRiDFPJ
   <img src="https://img.shields.io/badge/-CSS-steelblue?logo=CSS3&logoColor=white&style=flat" alt="CSS Badge" height="25"/>&nbsp;
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat" alt="HTML5 Badge" height="25"/>&nbsp;
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat" alt="JavaScript Badge" height="25"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Adobe Photoshop-31A8FF?logo=Adobe Photoshop&logoColor=white&style=flat" alt="Adobe Photoshop Badge" height="25"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Adobe Photoshop-informational?logo=Adobe Photoshop&logoColor=white&style=flat" alt="Adobe Photoshop Badge" height="25"/>&nbsp;
   <img src="https://img.shields.io/badge/-Tailwindcss-06B6D4?logo=Tailwindcss&logoColor=white&style=flat" alt="Tailwindcss Badge" height="25"/>&nbsp;
-  <img src="https://img.shields.io/badge/-sequelize-52B0E7?logo=sequelize&logoColor=white&style=flat" alt="sequelize Badge" height="25"/>&nbsp;
-  <img src="https://img.shields.io/badge/-docker-2496ED?logo=docker&logoColor=white&style=flat" alt="docker Badge" height="25"/>&nbsp;
+  <img src="https://img.shields.io/badge/-sequelize-blueviolet?logo=sequelize&logoColor=white&style=flat" alt="sequelize Badge" height="25"/>&nbsp;
+  <img src="https://img.shields.io/badge/-docker-lightblue?logo=docker&logoColor=white&style=flat" alt="docker Badge" height="25"/>&nbsp;
   <img src="https://img.shields.io/badge/-MySQL-gray?logo=MySQL&logoColor=white&style=flat" alt="MySQL Badge" height="25"/>&nbsp;
   <img src="https://img.shields.io/badge/-NodeJS-339933?logo=Node.JS&logoColor=white&style=flat" alt="NodeJS Badge" height="25"/>&nbsp;
   <img src="https://img.shields.io/badge/-Git-darkred?logo=Git&logoColor=white&style=flat" alt="Git Badge" height="25"/>&nbsp;
