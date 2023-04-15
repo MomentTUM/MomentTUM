@@ -22,7 +22,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/Q2T7BXRiDFPJcPoA7Z/giphy.gif" height="30"> from **Thailand.** <img src="https://media.giphy.com/media/vChBDrKNgggqk/giphy.gif" height="18"/>
 - 💻: I’m working as a Web Developer and contributing to frontend and backend for building web applications.
 
-- 📫:How to reach me:
+- 📫:How to reach me:&nbsp;
   <a href="https://www.linkedin.com/in/manapong-bunyasri-003922195/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
