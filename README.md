@@ -31,29 +31,21 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/Q2T7BXRiDFPJ
  ### :hammer_and_wrench: Languages and Tools :
  <div>
   <img src="https://img.shields.io/badge/-Visual Studio Code-dodgerblue?logo=visualstudiocode&logoColor=white&style=flat" alt="visualstudiocode Badge" height="25"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white&style=flat" alt="Figma Badge" height="25"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Figma-lightred?logo=Figma&logoColor=white&style=flat" alt="Figma Badge" height="25"/>&nbsp;
   <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat" alt="ReactJs Badge" height="25"/>&nbsp;
   <img src="https://img.shields.io/badge/-Redux-slateblue?logo=Redux&logoColor=white&style=flat" alt="Redux Badge" height="25"/>&nbsp;
   <img src="https://img.shields.io/badge/-CSS-steelblue?logo=CSS3&logoColor=white&style=flat" alt="CSS Badge" height="25"/>&nbsp;
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat" alt="HTML5 Badge" height="25"/>&nbsp;
-  
-  
-  
-  
-  
-  
-  
-
-  <img src="https://img.shields.io/badge/JavaScript-silver?style=flat&logo=JavaScript&labelColor=black&logoColor=#F7DF1E" alt="JavaScript Badge" height="25"/>&nbsp;
-  <img src="https://img.shields.io/badge/Photoshop-silver?style=flat&logo=Adobe Photoshop&labelColor=black&logoColor=#31A8FF" alt="Adobe Photoshop Badge" height="25"/>&nbsp;
-  <img src="https://img.shields.io/badge/Tailwindcss-silver?style=flat&logo=Tailwindcss&labelColor=black&logoColor=#06B6D4" alt="Tailwindcss Badge" height="25"/>&nbsp;
-  <img src="https://img.shields.io/badge/sequelize-silver?style=flat&logo=sequelize&labelColor=black&logoColor=#52B0E7" alt="sequelize Badge" height="25"/>&nbsp;
-  <img src="https://img.shields.io/badge/docker-silver?style=flat&logo=docker&labelColor=black&logoColor=#2496ED" alt="docker Badge" height="25"/>&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-silver?style=flat&logo=MySQL&labelColor=black&logoColor=cyan" alt="MySQL Badge" height="25"/>&nbsp;
-  <img src="https://img.shields.io/badge/NodeJS-silver?style=flat&logo=Node.JS&labelColor=black&logoColor=#339933" alt="NodeJS Badge" height="25"/>&nbsp;
-  <img src="https://img.shields.io/badge/Git-silver?style=flat&logo=Git&labelColor=black&logoColor=#F05032" alt="Git Badge" height="25"/>&nbsp;
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat" alt="JavaScript Badge" height="25"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Adobe Photoshop-31A8FF?logo=Adobe Photoshop&logoColor=white&style=flat" alt="Adobe Photoshop Badge" height="25"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Tailwindcss-06B6D4?logo=Tailwindcss&logoColor=white&style=flat" alt="Tailwindcss Badge" height="25"/>&nbsp;
+  <img src="https://img.shields.io/badge/-sequelize-52B0E7?logo=sequelize&logoColor=white&style=flat" alt="sequelize Badge" height="25"/>&nbsp;
+  <img src="https://img.shields.io/badge/-docker-2496ED?logo=docker&logoColor=white&style=flat" alt="docker Badge" height="25"/>&nbsp;
+  <img src="https://img.shields.io/badge/-MySQL-gray?logo=MySQL&logoColor=white&style=flat" alt="MySQL Badge" height="25"/>&nbsp;
+  <img src="https://img.shields.io/badge/-NodeJS-339933?logo=Node.JS&logoColor=white&style=flat" alt="NodeJS Badge" height="25"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Git-darkred?logo=Git&logoColor=white&style=flat" alt="Git Badge" height="25"/>&nbsp;
   </div>
-<!--  <div>
+  <!--  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
