@@ -19,7 +19,7 @@
 
 ---
 ### 👨‍💻: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/Q2T7BXRiDFPJcPoA7Z/giphy.gif" width="50"> from Thailand.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/Q2T7BXRiDFPJcPoA7Z/giphy.gif" height="30"> from **Thailand.** <img src="https://media.giphy.com/media/vChBDrKNgggqk/giphy.gif" height="18"/>
 - 💻: I’m working as a Web Developer and contributing to frontend and backend for building web applications.
 
 - 📫:How to reach me:
@@ -30,6 +30,22 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/Q2T7BXRiDFPJ
  ---
  ### :hammer_and_wrench: Languages and Tools :
  <div>
+  <img src="https://img.shields.io/badge/Visual Studio Code-silver?style=flat&logo=visualstudiocode&labelColor=grey&logoColor=dodgerblue" alt="visualstudiocode Badge" height="25"/>&nbsp;
+  <img src="https://img.shields.io/badge/Figma-silver?style=flat&logo=Figma&labelColor=grey&logoColor=#F24E1E" alt="Figma Badge" height="25"/>&nbsp;
+  <img src="https://img.shields.io/badge/React-silver?style=flat&logo=React&labelColor=gray&logoColor=#61DAFB" alt="React Badge" height="25"/>&nbsp;
+  <img src="https://img.shields.io/badge/Redux-silver?style=flat&logo=Redux&labelColor=grey&logoColor=slateblue" alt="Redux Badge" height="25"/>&nbsp;
+  <img src="https://img.shields.io/badge/CSS-silver?style=flat&logo=CSS3&labelColor=grey&logoColor=steelblue" alt="CSS Badge" height="25"/>&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-silver?style=flat&logo=HTML5&labelColor=grey&logoColor=#E34F26" alt="HTML5 Badge" height="25"/>&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-silver?style=flat&logo=JavaScript&labelColor=grey&logoColor=#F7DF1E" alt="JavaScript Badge" height="25"/>&nbsp;
+  <img src="https://img.shields.io/badge/Photoshop-silver?style=flat&logo=Adobe Photoshop&labelColor=grey&logoColor=#31A8FF" alt="Adobe Photoshop Badge" height="25"/>&nbsp;
+  <img src="https://img.shields.io/badge/Tailwindcss-silver?style=flat&logo=Tailwindcss&labelColor=grey&logoColor=#06B6D4" alt="Tailwindcss Badge" height="25"/>&nbsp;
+  <img src="https://img.shields.io/badge/sequelize-silver?style=flat&logo=sequelize&labelColor=grey&logoColor=#52B0E7" alt="sequelize Badge" height="25"/>&nbsp;
+  <img src="https://img.shields.io/badge/docker-silver?style=flat&logo=docker&labelColor=grey&logoColor=#2496ED" alt="docker Badge" height="25"/>&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-silver?style=flat&logo=MySQL&labelColor=grey&logoColor=cyan" alt="MySQL Badge" height="25"/>&nbsp;
+  <img src="https://img.shields.io/badge/NodeJS-silver?style=flat&logo=Node.JS&labelColor=grey&logoColor=#339933" alt="NodeJS Badge" height="25"/>&nbsp;
+  <img src="https://img.shields.io/badge/Git-silver?style=flat&logo=Git&labelColor=grey&logoColor=#F05032" alt="Git Badge" height="25"/>&nbsp;
+  </div>
+<!--  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -43,7 +59,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/Q2T7BXRiDFPJ
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+</div> -->
 
 ---
 
